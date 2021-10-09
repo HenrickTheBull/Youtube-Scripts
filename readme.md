@@ -4,7 +4,7 @@ In this repository you will find all of my written scripts, with research, and m
 
 The file structure will be as such to make it stupid simple to navigate where you want to go.
 
-Root
+```Root
 |
 |- One Shots
 |    |
@@ -19,4 +19,4 @@ Root
 |- Misc
     |
     |- Anything Else
- 
+ ```
